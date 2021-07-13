@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Abhikalp6
+
+- 👋 Hi, I’m Abhikalp Arya
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning all skills that Data Scientist's have.
+- 🌱 I’m currently learning Web Development and Machine Learning.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me - E-mail: abhikalp.arya@gmail.com
 
