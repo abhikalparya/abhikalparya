@@ -69,7 +69,5 @@
 ## ❤ Views and Followers
 [![HitCount](http://hits.dwyl.com/abhikalparya/Abhikalp-Arya.svg)](http://hits.dwyl.com/abhikalparya/Abhikalp-Arya)
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abhikalparya">
-</a>
+<p><img src='https://visitor-badge.laobi.icu/badge?page_id=abhikalparya' alt="Visitors"></p>
 <a href="https://github.com/abhikalparya?tab=followers"><img src="https://img.shields.io/github/followers/abhikalparya?label=Followers&style=social" alt="GitHub Badge"></a>
