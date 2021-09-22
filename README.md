@@ -67,6 +67,8 @@
 </p>
 
 ## ❤ Views and Followers
+[![HitCount](http://hits.dwyl.com/abhikalparya/Abhikalp-Arya.svg)](http://hits.dwyl.com/abhikalparya/Abhikalp-Arya)
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abhikalparya">
 </a>
