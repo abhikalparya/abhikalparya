@@ -72,6 +72,21 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 
 ## **📊GitHub Stats :**
 
-![](https://github-readme-stats.vercel.app/api?username=abhikalparya&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhikalparya&theme=react&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikalparya&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=abhikalparya&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=abhikalparya&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhikalparya&show_icons=true" />
+</picture>
+<br><br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhikalparya&theme=dark&hide_border=false)
+<br><br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikalparya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
