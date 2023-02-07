@@ -11,6 +11,7 @@ I am always on the lookout for new challenges and opportunities to learn and gro
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhikalp-arya-7179431b9/)](https://www.linkedin.com/in/abhikalp-arya-7179431b9/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/AbhikalpArya)](https://twitter.com/AbhikalpArya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:abhikalp.arya@gmail.com)](mailto:abhikalp.arya@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhikalparya.tech/)
 
 ---
 
