@@ -1,43 +1,50 @@
-<h2> Hi there, I'm Abhikalp Arya! 👋</h2>
-<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
+<h2>Hi there, I'm Abhikalp Arya! 👋</h2>
 
 ## 👨‍💻 About Me
 
-I'm an AI/ML Engineer with nearly a year of hands-on experience building intelligent systems—from data collection and model development to deployment and integration. I specialize in **Natural Language Processing**, **Computer Vision**, and building **end-to-end ML pipelines**.
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300">
 
-With a background in **Computer Science & Data Science**, and real-world experience in **chatbot development**, **model fine-tuning**, and **cloud deployment**, I’m always looking to push the limits of what machines can do.
+I'm an AI Engineer with ~2 years of experience building production GenAI systems — RAG pipelines, multi-agent orchestration, and the evaluation infrastructure that proves they actually work. I work across the full lifecycle: retrieval architecture, hybrid search, and measurement-first evaluation programs that meaningfully lifted end-to-end task success in production, using golden sets and regression gating rather than gut checks.
 
-🔍 Currently exploring **LLMs**, **RAG pipelines**, **LangChain**, and **AI Agent frameworks** to build smarter, context-aware applications.
+I care as much about **how you know a system works** as building the system itself — golden sets, LLM-as-judge, regression gating, falsifying my own hypotheses before I trust a result.
 
-🚀 I love tackling new challenges, working on meaningful projects, and collaborating with people who are just as curious about AI as I am.
+🔍 Currently deepening my grounding in **model internals and PyTorch** alongside the applied work — closing the gap between using LLMs well and understanding what's actually happening underneath.
+
+🚀 Always up for a hard problem, especially ones where "it looks like it's working" isn't good enough and someone has to go measure it.
+
+<br clear="both">
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhikalparya/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AbhikalpArya)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhikalp.arya@gmail.com)
 
 ---
 
-## 💡 Core Skills as an AI/ML Engineer
+## 🧪 What I've Been Building
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%2300C853.svg?style=for-the-badge&logo=skillshare&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF6F00.svg?style=for-the-badge&logo=deepin&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-%234285F4.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%23F9A825.svg?style=for-the-badge&logo=bookstack&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300B8D4.svg?style=for-the-badge&logo=chainlink&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-%23007396.svg?style=for-the-badge&logo=slack&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23F9A825.svg?style=for-the-badge&logo=camera&logoColor=white)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-%234285F4.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Model Deployment](https://img.shields.io/badge/Model%20Deployment-%23007396.svg?style=for-the-badge&logo=docker&logoColor=white)
-![API Development](https://img.shields.io/badge/API%20Development-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23F9A825.svg?style=for-the-badge&logo=OpenAI&logoColor=black)
-![Cloud & DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ML Ops](https://img.shields.io/badge/ML%20Ops-%23007396.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+**[Synapse](https://github.com/abhikalparya/synapse)** — A self-evolving knowledge platform: raw documents become schema-validated wiki pages, a knowledge graph emerges live from page relationships, and a confidence-gated write-back loop lets the system improve its own knowledge base without ever silently degrading it.
+
+**RAG Quality Engineering** — A nine-experiment, measurement-first evaluation program on a production RAG platform. Falsified four plausible hypotheses (including hallucination and prompt architecture) before finding the real bottleneck: an answer-contract mismatch, fixed with a JSON schema change, not a bigger model.
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to connect or check out my work!*  
+## 💡 Core Skills
+
+![LLMs](https://img.shields.io/badge/LLMs-%23007ACC.svg?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%23F9A825.svg?style=for-the-badge&logo=bookstack&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-%2300C853.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-%23007396.svg?style=for-the-badge&logo=slack&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300B8D4.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%2300B8D4.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23F9A825.svg?style=for-the-badge&logo=OpenAI&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-%234285F4.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/Cloud%20&%20DevOps-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+⭐️ *Thanks for visiting my profile — feel free to connect or check out what I'm building.*
